@@ -1,0 +1,17 @@
+body {
+	background-color: #FFC;
+	background-image: url("https://thumbs.dreamstime.com/t/diamond-plated-seamless-metal-sheet-vector-38308868.jpg");
+	border-image: url("https://thumbs.dreamstime.com/t/diamond-plated-seamless-metal-sheet-vector-38308868.jpg")
+}
+h1 {
+	color: rgba(255, 255, 255, 0.9);
+	font-size: 60px;
+	text-align: center;
+	background-image: url("https://media.tenor.com/images/1eaf35f653ef2bec7238d970d539e603/tenor.gif");
+}
+p {
+	color: rgba(255, 255, 255, 0.7);
+	text-align: center;
+	font-family: "Courier New";
+	font-size: 40px;
+}
